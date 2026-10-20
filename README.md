@@ -52,6 +52,9 @@ Linha geral: **parte prática + implicações**, em tom sóbrio, sem hype (como 
 
 ## Checklist administrativa (Viatris)
 
+**Enviado a 20/10/2026.** Falta a Viatris confirmar o local e enviar o contrato.
+
+
 - [ ] Formulário de fornecedor (Excel do email de 04/08)
 - [ ] Comprovativo IBAN da CPS (banco, < 3 meses)
 - [ ] Código da certidão permanente da CPS (renovar: 8524-0575-5574 expirou a 21/08)
