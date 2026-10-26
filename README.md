@@ -8,7 +8,7 @@
 |---|---|
 | **Evento** | AI & CV Risk Summit — organização Viatris |
 | **Data** | sábado, 21 de novembro de 2026 |
-| **Local** | Porto — por confirmar (perguntado à Viatris) |
+| **Local** | WOW Porto — Espaço Cork, Vila Nova de Gaia |
 | **Público** | ~100–120 médicos de MGF, Medicina Interna e Cardiologia |
 | **Objetivo do evento** | potencial da IA na prática clínica diária, de forma muito prática; algumas sessões focadas em prevenção e gestão do risco cardiovascular |
 | **Contactos Viatris** | Ana Carvalho (Senior Brand Manager), Patrícia Martins (Senior Brand Manager – Hospital), Susana Madureira |
@@ -52,7 +52,7 @@ Linha geral: **parte prática + implicações**, em tom sóbrio, sem hype (como 
 
 ## Checklist administrativa (Viatris)
 
-**Enviado a 20/10/2026.** Falta a Viatris confirmar o local e enviar o contrato.
+**Enviado a 20/10/2026.** Local confirmado (WOW Porto — Espaço Cork). Falta o contrato / criação de fornecedor.
 
 
 - [ ] Formulário de fornecedor (Excel do email de 04/08)
